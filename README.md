@@ -96,4 +96,4 @@ Task 1: Run Basic Commands in Termux<br/>
 ![We need permission to access the files](Task 1/To access file we need permission.png
 )
 
-![Termux Home Directory: /data/data/com.termux/files/home](Task 1/Termux Home Directory.png)
+![Termux Home Directory: /data/data/com.termux/files/home]([Task 1/Termux Home Directory.png](https://github.com/SaiBhavana4/Null-Class/blob/main/Task%201/Termux%20Home%20Directory.png?raw=true)
