@@ -84,3 +84,6 @@ The tasks I completed during this internship have had a significant impact on my
 These tasks also enhanced my understanding of how mobile applications interact with the Android operating system and how device policies can be leveraged to enforce security measures.
 # 9. Conclusion<br/>
 My internship at Null Class provided me with invaluable experience in cybersecurity, particularly in mobile environments. The opportunity to work with Termux, Android device policies, and APK file analysis has strengthened my technical capabilities and broadened my understanding of mobile security. The skills and knowledge I gained during this internship will be instrumental in my future endeavors in the field of cybersecurity.
+
+# 10. Appendix <br/>
+Task 1: Run Basic Commands in Termux<br/>
