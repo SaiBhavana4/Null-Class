@@ -87,3 +87,13 @@ My internship at Null Class provided me with invaluable experience in cybersecur
 
 # 10. Appendix <br/>
 Task 1: Run Basic Commands in Termux<br/>
+![ls: List Directory](Task 1/ls(list directory).png) 
+
+![pwd: print working directory](Task 1/pwd(print working directory).png)
+
+![cd: change directory](Task 1/cd(change directory).png)
+
+![We need permission to access the files](Task 1/To access file we need permission.png
+)
+
+![Termux Home Directory: /data/data/com.termux/files/home](Task 1/Termux Home Directory.png)
