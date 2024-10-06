@@ -95,5 +95,6 @@ Task 1: Run Basic Commands in Termux<br/>
 
 ! We need permission to access the files (Task 1/To access file we need permission.png
 )
+![cd(change directory)](https://github.com/user-attachments/assets/6986d000-0d44-44f6-aa04-93e24eed68f0)
 
 ![Termux Home Directory: /data/data/com.termux/files/home] Task 1/Termux Home Directory.png
